@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Alternative resources: used automatically when the device (or app) is in night mode -->
+<resources>
+    <color name="primary">#8FA8FF</color>
+    <color name="on_primary">#0B1A4A</color>
+    <color name="primary_container">#22305E</color>
+    <color name="on_primary_container">#DCE3FF</color>
+
+    <color name="background">#0F1218</color>
+    <color name="surface">#1A1F29</color>
+    <color name="text_primary">#E8EAF0</color>
+    <color name="text_secondary">#A2A8B8</color>
+    <color name="card_stroke">#2A3140</color>
+    <color name="hint_background">#1C2438</color>
+    <color name="error">#F28B82</color>
+    <color name="splash_logo_bg">#330B1A4A</color>
+
+    <color name="mod_blue">#8FA8FF</color>
+    <color name="mod_blue_bg">#22305E</color>
+    <color name="mod_green">#81C995</color>
+    <color name="mod_green_bg">#1C3324</color>
+    <color name="mod_orange">#FCAD70</color>
+    <color name="mod_orange_bg">#3D2A17</color>
+    <color name="mod_purple">#C3A6F7</color>
+    <color name="mod_purple_bg">#2E2246</color>
+    <color name="mod_red">#F28B82</color>
+    <color name="mod_red_bg">#3D1F1D</color>
+    <color name="mod_teal">#7FD3C8</color>
+    <color name="mod_teal_bg">#163330</color>
+</resources>

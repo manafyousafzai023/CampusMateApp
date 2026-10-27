@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">24dp</dimen>
+    <dimen name="field_spacing">12dp</dimen>
+    <dimen name="corner_radius">12dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="logo_size">72dp</dimen>
+</resources>
